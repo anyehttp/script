@@ -18,5 +18,4 @@
 ### 通用使用步骤
 1. **下载脚本**（以 `docker-update-host.sh` 为例）：
    ```bash
-   wget -O 脚本名称.sh 脚本RAW地址
-   chmod +x 脚本名称.sh
+   暂无
