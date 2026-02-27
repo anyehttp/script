@@ -5,7 +5,7 @@
 [![Update Time](https://img.shields.io/badge/Update-2026.02.27-green.svg)](https://github.com/anyehttp/script)
 
 ## 🌟 项目简介
-本仓库收集整理个人自用的各类 Shell 脚本，主要适配 1Panel 计划任务/日常运维场景，解决容器管理、网络配置、服务维护等实际问题，所有脚本均经过实测可用。
+本仓库收集整理个人自用的各类脚本，所有脚本均经过实测可用。
 
 ## 📚 脚本列表
 | 脚本名称 | 功能描述 | 适用场景 | 脚本地址 |
