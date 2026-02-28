@@ -1,7 +1,6 @@
 # 自用脚本库
 
 [![Shell Script](https://img.shields.io/badge/Shell-Script-blue.svg)](https://www.gnu.org/software/bash/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Update Time](https://img.shields.io/badge/Update-2026.02.27-green.svg)](https://github.com/anyehttp/script)
 
 ## 🌟 项目简介
